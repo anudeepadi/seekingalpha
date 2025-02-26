@@ -1,0 +1,304 @@
+2025-02-25 11:51:55,520 - INFO - Successfully connected to database
+2025-02-25 11:51:55,521 - INFO - Starting browser...
+2025-02-25 11:51:56,242 - INFO - Browser started
+2025-02-25 11:52:00,156 - INFO - 
+======================================================================
+2025-02-25 11:52:00,156 - INFO - MANUAL LOGIN REQUIRED
+2025-02-25 11:52:00,157 - INFO - Please log in to your Seeking Alpha premium account in the browser window.
+2025-02-25 11:52:00,157 - INFO - Take your time to complete any CAPTCHAs or security checks.
+2025-02-25 11:52:00,158 - INFO - After logging in successfully, return to this console.
+2025-02-25 11:52:00,158 - INFO - ======================================================================
+2025-02-25 11:52:47,617 - INFO - Retrieved 100 unprocessed links
+2025-02-25 11:52:47,617 - INFO - Processing 100 links...
+2025-02-25 11:52:47,618 - INFO - Downloading: JBT Marel Corporation (JBTM) Q4 2024 Earnings Call Transcript
+2025-02-25 11:52:56,949 - INFO - Downloading: Krispy Kreme, Inc. (DNUT) Q4 2024 Earnings Call Transcript
+2025-02-25 11:53:06,136 - INFO - Downloading: Amer Sports, Inc. (AS) Q4 2024 Earnings Call Transcript
+2025-02-25 11:53:16,360 - INFO - Downloading: Yatsen Holding Limited (YSG) Q4 2024 Earnings Call Transcript
+2025-02-25 11:53:24,535 - INFO - Downloading: Black Stone Minerals, L.P. Common Units (BSM) Q4 2024 Earnings Call Transcript
+2025-02-25 11:53:32,056 - INFO - Downloading: Inspirato Incorporated (ISPO) Q4 2024 Earnings Call Transcript
+2025-02-25 11:53:40,562 - INFO - Downloading: Xometry, Inc. (XMTR) Q4 2024 Earnings Call Transcript
+2025-02-25 11:53:49,610 - INFO - Downloading: The Home Depot, Inc. (HD) Q4 2024 Earnings Call Transcript
+2025-02-25 11:53:59,399 - INFO - Downloading: Diamondback Energy, Inc. (FANG) Q4 2024 Earnings Call Transcript
+2025-02-25 11:54:07,281 - INFO - Downloading: Cleveland-Cliffs Inc. (CLF) Q4 2024 Earnings Call Transcript
+2025-02-25 11:54:17,704 - INFO - Downloading: Bank of Montreal (BMO) Q1 2025 Earnings Call Transcript
+2025-02-25 11:54:26,666 - INFO - Downloading: American Tower Corporation (AMT) Q4 2024 Earnings Call Transcript
+2025-02-25 11:54:37,103 - INFO - Downloading: HealthStream, Inc. (HSTM) Q4 2024 Earnings Call Transcript
+2025-02-25 11:54:46,411 - INFO - Downloading: Beyond, Inc. (BYON) Q4 2024 Earnings Call Transcript
+2025-02-25 11:54:53,978 - INFO - Downloading: Croda International Plc (COIHF) Q4 2024 Earnings Call Transcript
+2025-02-25 11:55:05,636 - INFO - Downloading: MAC Copper Limited (MTAL) Q4 2024 Earnings Call Transcript
+2025-02-25 11:55:13,968 - INFO - Downloading: Trip.com Group Limited (TCOM) Q4 2024 Earnings Call Transcript
+2025-02-25 11:55:22,229 - INFO - Downloading: Almiralll, S.A. (LBTSF) Q4 2024 Earnings Call Transcript
+2025-02-25 11:55:30,681 - INFO - Downloading: Sasol Limited (SSL) Q4 2024 Earnings Call Transcript
+2025-02-25 11:55:40,341 - INFO - Downloading: Dream Office Real Estate Investment Trust (DRETF) Q4 2024 Earnings Call Transcript
+2025-02-25 11:55:49,753 - INFO - Downloading: Woodside Energy Group Ltd (WDS) Q4 2024 Earnings Call Transcript
+2025-02-25 11:55:59,438 - INFO - Downloading: KBR, Inc. (KBR) Q4 2024 Earnings Call Transcript
+2025-02-25 11:56:09,565 - INFO - Downloading: Artivion, Inc. (AORT) Q4 2024 Earnings Call Transcript
+2025-02-25 11:56:19,558 - INFO - Downloading: Goosehead Insurance, Inc (GSHD) Q4 2024 Earnings Call Transcript
+2025-02-25 11:56:30,387 - INFO - Downloading: Veracyte, Inc. (VCYT) Q4 2024 Earnings Call Transcript
+2025-02-25 11:56:39,086 - INFO - Downloading: DMC Global Inc. (BOOM) Q4 2024 Earnings Call Transcript
+2025-02-25 11:56:48,072 - INFO - Downloading: Navitas Semiconductor Corporation (NVTS) Q4 2024 Earnings Call Transcript
+2025-02-25 11:56:55,887 - INFO - Downloading: SI-BONE, Inc. (SIBN) Q4 2024 Earnings Call Transcript
+2025-02-25 11:57:05,523 - INFO - Downloading: Azul S.A. (AZUL) Q4 2024 Earnings Call Transcript
+2025-02-25 11:57:13,817 - INFO - Downloading: Ultra Clean Holdings, Inc. (UCTT) Q4 2024 Earnings Call Transcript
+2025-02-25 11:57:21,736 - INFO - Downloading: Clean Energy Fuels Corp. (CLNE) Q4 2024 Earnings Call Transcript
+2025-02-25 11:57:31,470 - INFO - Downloading: Tempus AI, Inc. (TEM) Q4 2024 Earnings Call Transcript
+2025-02-25 11:57:40,589 - INFO - Downloading: Bank of Ireland Group plc (BKRIF) Q4 2024 Earnings Call Transcript
+2025-02-25 11:57:50,588 - INFO - Downloading: V2X, Inc. (VVX) Q4 2024 Earnings Call Transcript
+2025-02-25 11:58:00,111 - INFO - Downloading: Riot Platforms, Inc. (RIOT) Q4 2024 Earnings Call Transcript
+2025-02-25 11:58:10,155 - INFO - Downloading: Clearway Energy, Inc. (CWEN) Q4 2024 Earnings Call Transcript
+2025-02-25 11:58:18,899 - INFO - Downloading: BWX Technologies, Inc. (BWXT) Q4 2024 Earnings Call Transcript
+2025-02-25 11:58:27,552 - INFO - Downloading: Zoom Communications Inc. (ZM) Q4 2025 Earnings Call Transcript
+2025-02-25 11:58:38,341 - INFO - Downloading: Chegg, Inc. (CHGG) Q4 2024 Earnings Call Transcript
+2025-02-25 11:58:47,754 - INFO - Downloading: Cameco Corporation (CCJ) BMO Capital Markets 2025 Global Metals, Mining & Critical Materials Conference (Transcript)
+2025-02-25 11:58:55,894 - INFO - Downloading: Trex Company, Inc. (TREX) Q4 2024 Earnings Call Transcript
+2025-02-25 11:59:05,380 - INFO - Downloading: Offerpad Solutions Inc. (OPAD) Q4 2024 Earnings Call Transcript
+2025-02-25 11:59:13,567 - INFO - Downloading: Topgolf Callaway Brands Corp. (MODG) Q4 2024 Earnings Call Transcript
+2025-02-25 11:59:21,717 - INFO - Downloading: Myriad Genetics, Inc. (MYGN) Q4 2024 Earnings Call Transcript
+2025-02-25 11:59:29,497 - INFO - Downloading: EverQuote, Inc. (EVER) Q4 2024 Earnings Call Transcript
+2025-02-25 11:59:38,782 - INFO - Downloading: SBA Communications Corporation (SBAC) Q4 2024 Earnings Call Transcript
+2025-02-25 11:59:49,326 - INFO - Downloading: Albemarle Corporation (ALB) BMO Capital Markets 2025 Global Metals, Mining & Critical Materials Conference (Transcript)
+2025-02-25 11:59:58,757 - INFO - Downloading: Hims & Hers Health, Inc. (HIMS) Q4 2024 Earnings Call Transcript
+2025-02-25 12:00:09,343 - INFO - Downloading: Zip Co Limited (ZIZTF) Q2 2025 Earnings Call Transcript
+2025-02-25 12:00:19,045 - INFO - Downloading: FARO Technologies, Inc. (FARO) Q4 2024 Earnings Call Transcript
+2025-02-25 12:00:28,228 - INFO - Downloading: Cannae Holdings, Inc. (CNNE) Q4 2024 Earnings Call Transcript
+2025-02-25 12:00:37,109 - INFO - Downloading: MediaAlpha, Inc. (MAX) Q4 2024 Earnings Call Transcript
+2025-02-25 12:00:44,685 - INFO - Downloading: PostNL N.V. (TNTFF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:00:53,665 - INFO - Downloading: Westlake Chemical Partners LP Common Units (WLKP) Q4 2024 Earnings Call Transcript
+2025-02-25 12:01:03,653 - INFO - Downloading: Hovnanian Enterprises, Inc. (HOV) Q1 2025 Earnings Call Transcript
+2025-02-25 12:01:13,737 - INFO - Downloading: Fresh Del Monte Produce Inc. (FDP) Q4 and Full Year 2024 Earnings Call Transcript
+2025-02-25 12:01:22,975 - INFO - Downloading: Controladora Vuela Compania de Aviacion, S.A.B. de C.V. (VLRS) Q4 2024 Earnings Call Transcript
+2025-02-25 12:01:32,333 - INFO - Downloading: Westlake Corporation (WLK) Q4 2024 Earnings Call Transcript
+2025-02-25 12:01:41,657 - INFO - Downloading: Kosmos Energy Ltd. (KOS) Q4 2024 Earnings Call Transcript
+2025-02-25 12:01:51,862 - INFO - Downloading: Joint Stock Company Kaspi.kz (KSPI) Q4 2024 Earnings Call Transcript
+2025-02-25 12:02:00,740 - INFO - Downloading: Lincoln Educational Services Corporation (LINC) Q4 2024 Earnings Call Transcript
+2025-02-25 12:02:09,913 - INFO - Downloading: CLP Holdings Limited (CLPHY) Q4 2024 Earnings Call Transcript
+2025-02-25 12:02:18,470 - INFO - Downloading: EnWave Corporation (NWVCF) Q1 2025 Earnings Call Transcript
+2025-02-25 12:02:28,652 - INFO - Downloading: Owens Corning (OC) Q4 2024 Earnings Call Transcript
+2025-02-25 12:02:37,410 - INFO - Downloading: Gran Tierra Energy Inc. (GTE) Q4 2024 Earnings Call Transcript
+2025-02-25 12:02:45,363 - INFO - Downloading: Piraeus Financial Holdings S.A. ADR (BPIRY) Q4 2024 Earnings Call Transcript
+2025-02-25 12:02:54,218 - INFO - Downloading: BioCryst Pharmaceuticals, Inc. (BCRX) Q4 2024 Earnings Call Transcript
+2025-02-25 12:03:03,311 - INFO - Downloading: Summit Therapeutics Inc. (SMMT) Q4 2024 Earnings Call Transcript
+2025-02-25 12:03:12,861 - INFO - Downloading: EuroDry Ltd. (EDRY) Q4 2024 Earnings Call Transcript
+2025-02-25 12:03:23,138 - INFO - Downloading: Just Eat Takeaway.com N.V. (JTKWY) FY2024 Earnings Call Transcript
+2025-02-25 12:03:31,176 - INFO - Downloading: Freeport-McMoRan Inc. (FCX) BMO Capital Markets 34rd Global Metals, Mining & Critical Minerals Conference (Transcript)
+2025-02-25 12:03:40,685 - INFO - Downloading: Domino's Pizza, Inc. (DPZ) Q4 2024 Earnings Call Transcript
+2025-02-25 12:03:49,080 - INFO - Downloading: Clear Channel Outdoor Holdings, Inc. (CCO) Q4 2024 Earnings Call Transcript
+2025-02-25 12:03:57,963 - INFO - Downloading: Freightos (CRGO) Q4 2024 Earnings Call Transcript
+2025-02-25 12:04:07,239 - INFO - Downloading: Teva Pharmaceutical Industries Limited (TEVA) Duvakitug (Anti-TL1A) Phase 2 Investors Call to Discuss New Data Presented at ECCO Conference (Transcript)
+2025-02-25 12:04:15,294 - INFO - Downloading: Bausch Health Companies Inc. (BHC) J.P. Morgan Global Leveraged Finance Conference Transcript
+2025-02-25 12:04:25,255 - INFO - Downloading: Nickel Industries Limited (NICMF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:04:34,642 - INFO - Downloading: Stanmore Resources Limited (STMRF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:04:42,705 - INFO - Downloading: Perseus Mining Limited (PMNXF) Q2 2025 Earnings Call Transcript
+2025-02-25 12:04:52,605 - INFO - Downloading: Bridgestone Corporation (BRDCY) Q4 2024 Earnings Call Transcript
+2025-02-25 12:05:00,786 - INFO - Downloading: PagSeguro Digital Ltd. (PAGS) Q4 2024 Earnings Call Transcript
+2025-02-25 12:05:09,675 - INFO - Downloading: Imerys S.A. (IMYSF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:05:19,684 - INFO - Downloading: Arbor Realty Trust, Inc. (ABR) Q4 2024 Earnings Call Transcript
+2025-02-25 12:05:29,233 - INFO - Downloading: Hawaiian Electric Industries, Inc. (HE) Q4 2024 Earnings Call Transcript
+2025-02-25 12:05:39,589 - INFO - Downloading: Grupo Aval Acciones y Valores S.A. (AVAL) Q4 2024 Earnings Call Transcript
+2025-02-25 12:05:40,605 - INFO - Download interrupted by user.
+2025-02-25 12:05:40,624 - INFO - Progress: 84/1008 articles downloaded
+2025-02-25 12:05:41,293 - INFO - Browser closed
+2025-02-25 12:05:41,323 - INFO - Database connection closed
+2025-02-25 12:17:21,305 - INFO - Successfully connected to database
+2025-02-25 12:17:21,306 - INFO - Starting browser...
+2025-02-25 12:17:21,931 - INFO - Browser started
+2025-02-25 12:17:25,778 - INFO - 
+======================================================================
+2025-02-25 12:17:25,779 - INFO - MANUAL LOGIN REQUIRED
+2025-02-25 12:17:25,780 - INFO - Please log in to your Seeking Alpha premium account in the browser window.
+2025-02-25 12:17:25,780 - INFO - Take your time to complete any CAPTCHAs or security checks.
+2025-02-25 12:17:25,781 - INFO - After logging in successfully, return to this console.
+2025-02-25 12:17:25,781 - INFO - ======================================================================
+2025-02-25 12:18:01,688 - INFO - Retrieved 100 unprocessed links
+2025-02-25 12:18:01,689 - INFO - Processing 100 links...
+2025-02-25 12:18:01,689 - INFO - Downloading: Grupo Aval Acciones y Valores S.A. (AVAL) Q4 2024 Earnings Call Transcript
+2025-02-25 12:18:11,180 - INFO - Downloading: Sunstone Hotel Investors, Inc. (SHO) Q4 2024 Earnings Call Transcript
+2025-02-25 12:18:21,171 - INFO - Downloading: HSBC Holdings plc (HSBC) Q4 2024 Earnings Call Transcript
+2025-02-25 12:18:30,561 - INFO - Downloading: American Homes 4 Rent (AMH) Q4 2024 Earnings Call Transcript
+2025-02-25 12:18:41,376 - INFO - Downloading: Gaztransport & Technigaz SA (GZPZF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:18:51,971 - INFO - Downloading: Repsol, S.A. (REPYY) Q4 2024 Earnings Call Transcript
+2025-02-25 12:19:00,493 - INFO - Downloading: Seatrium Limited (SMBMF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:19:10,667 - INFO - Downloading: Mercer International Inc. (MERC) Q4 2024 Earnings Call Transcript
+2025-02-25 12:19:20,233 - INFO - Downloading: Cofinimmo SA (CFMOF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:19:30,333 - INFO - Downloading: Boardwalk Real Estate Investment Trust (BOWFF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:19:40,410 - INFO - Downloading: Standard Chartered PLC (SCBFF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:19:49,744 - INFO - Downloading: TXNM Energy, Inc. (TXNM) Q4 2024 Earnings Call Transcript
+2025-02-25 12:19:59,840 - INFO - Downloading: Forum Energy Technologies, Inc. (FET) Q4 2024 Earnings Call Transcript
+2025-02-25 12:20:09,925 - INFO - Downloading: Atmus Filtration Technologies Inc. (ATMU) Q4 2024 Earnings Call Transcript
+2025-02-25 12:20:18,090 - INFO - Downloading: Alliant Energy Corporation (LNT) Q4 2024 Earnings Call Transcript
+2025-02-25 12:20:27,986 - INFO - Downloading: Ryman Hospitality Properties, Inc. (RHP) Q4 2024 Earnings Call Transcript
+2025-02-25 12:20:37,885 - INFO - Downloading: Onex Corporation (ONEXF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:20:47,793 - INFO - Downloading: Oil States International, Inc. (OIS) Q4 2024 Earnings Call Transcript
+2025-02-25 12:20:57,546 - INFO - Downloading: Orbia Advance Corporation, S.A.B. de C.V. (MXCHF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:21:06,797 - INFO - Downloading: Nexa Resources S.A. (NEXA) Q4 2024 Earnings Call Transcript
+2025-02-25 12:21:16,629 - INFO - Downloading: Gaming and Leisure Properties, Inc. (GLPI) Q4 2024 Earnings Call Transcript
+2025-02-25 12:21:25,487 - INFO - Downloading: Secure Energy Services Inc. (SECYF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:21:34,301 - INFO - Downloading: Fidelity National Financial, Inc. (FNF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:21:43,728 - INFO - Downloading: Grupo Televisa, S.A.B. (TV) Q4 2024 Earnings Call Transcript
+2025-02-25 12:21:54,051 - INFO - Downloading: Solaris Energy Infrastructure, Inc. (SEI) Q4 2024 Earnings Call Transcript
+2025-02-25 12:22:03,749 - INFO - Downloading: StealthGas Inc. (GASS) Q4 2024 Earnings Call Transcript
+2025-02-25 12:22:14,175 - INFO - Downloading: Balchem Corporation (BCPC) Q4 2024 Earnings Conference Call Transcript
+2025-02-25 12:22:23,686 - INFO - Downloading: VICI Properties Inc. (VICI) Q4 2024 Earnings Call Transcript
+2025-02-25 12:22:32,919 - INFO - Downloading: Employers Holdings, Inc. (EIG) Q4 2024 Earnings Call Transcript
+2025-02-25 12:22:43,220 - INFO - Downloading: Eldorado Gold Corporation (EGO) Q4 2024 Earnings Call Transcript
+2025-02-25 12:22:53,211 - INFO - Downloading: Compañía de Minas Buenaventura S.A.A. (BVN) Q4 2024 Earnings Call Transcript
+2025-02-25 12:23:03,165 - INFO - Downloading: Lundin Gold, Inc. (LUGDF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:23:13,516 - INFO - Downloading: Comfort Systems USA, Inc. (FIX) Q4 2024 Earnings Call Transcript
+2025-02-25 12:23:21,306 - INFO - Downloading: Olympic Steel, Inc. (ZEUS) Q4 2024 Earnings Call Transcript
+2025-02-25 12:23:30,704 - INFO - Downloading: F&G Annuities & Life, Inc. (FG) Q4 2024 Earnings Call Transcript
+2025-02-25 12:23:39,528 - INFO - Downloading: B3 S.A. - Brasil, Bolsa, Balcão (BOLSY) Q4 2024 Earnings Call Transcript
+2025-02-25 12:23:47,267 - INFO - Downloading: Boise Cascade Company, Inc. (BCC) Q4 2024 Earnings Call Transcript
+2025-02-25 12:23:55,536 - INFO - Downloading: Emera Incorporated (EMRAF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:24:03,915 - INFO - Downloading: AdvanSix Inc. (ASIX) Q4 2024 Earnings Call Transcript
+2025-02-25 12:24:12,051 - INFO - Downloading: Telephone and Data Systems, Inc. (TDS) Q4 2024 Earnings Call Transcript
+2025-02-25 12:24:19,795 - INFO - Downloading: Brady Corporation (BRC) Q2 2025 Earnings Call Transcript
+2025-02-25 12:24:28,384 - INFO - Downloading: IAMGOLD Corporation (IAG) Q4 2024 Earnings Call Transcript
+2025-02-25 12:24:38,149 - INFO - Downloading: Lam Research Corporation (LRCX) Investor Day 2025 Conference Transcript
+2025-02-25 12:24:46,289 - INFO - Downloading: Select Medical Holdings Corporation (SEM) Q4 2024 Earnings Call Transcript
+2025-02-25 12:24:55,742 - INFO - Downloading: RE/MAX Holdings, Inc. (RMAX) Q4 2024 Earnings Call Transcript
+2025-02-25 12:25:05,689 - INFO - Downloading: Federal Agricultural Mortgage Corporation (AGM) Q4 2024 Earnings Call Transcript
+2025-02-25 12:25:16,144 - INFO - Downloading: Ryerson Holding Corporation (RYI) Q4 2024 Earnings Call Transcript
+2025-02-25 12:25:26,009 - INFO - Downloading: Colgate-Palmolive Company (CL) Consumer Analyst Group of New York Conference (CAGNY) 2025 (Transcript)
+2025-02-25 12:25:35,692 - INFO - Downloading: ACCO Brands Corporation (ACCO) Q4 2024 Earnings Call Transcript
+2025-02-25 12:25:44,801 - INFO - Downloading: Sika AG (SXYAY) Q4 2024 Earnings Call Transcript
+2025-02-25 12:25:55,145 - INFO - Downloading: Covalon Technologies Ltd. (CVALF) Q1 2025 Earnings Call Transcript
+2025-02-25 12:26:05,553 - INFO - Downloading: Centerra Gold Inc. (CGAU) Q4 2024 Earnings Call Transcript
+2025-02-25 12:26:14,938 - INFO - Downloading: CTO Realty Growth, Inc. (CTO) Q4 2024 Earnings Call Transcript
+2025-02-25 12:26:23,536 - INFO - Downloading: Uniti Group Inc. (UNIT) Q4 2024 Earnings Call Transcript
+2025-02-25 12:26:33,119 - INFO - Downloading: L'Air Liquide S.A. (AIQUF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:26:40,887 - INFO - Downloading: Barings BDC Inc (BBDC) Q4 2024 Earnings Call Transcript
+2025-02-25 12:26:50,733 - INFO - Downloading: Vipshop Holdings Limited (VIPS) Q4 2024 Earnings Call Transcript
+2025-02-25 12:27:00,271 - INFO - Downloading: Invesco Mortgage Capital Inc. (IVR) Q4 2024 Earnings Call Transcript
+2025-02-25 12:27:08,103 - INFO - Downloading: Elekta AB (publ) (EKTAF) Q3 2025 Earnings Call Transcript
+2025-02-25 12:27:18,613 - INFO - Downloading: Yancoal Australia Ltd (YACAF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:27:28,453 - INFO - Downloading: Celsius Holdings, Inc. (CELH) Q4 2024 Earnings Call Transcript
+2025-02-25 12:27:36,455 - INFO - Downloading: Teekay Corporation Ltd. (TK) Q4 2024 Earnings Call Transcript
+2025-02-25 12:27:46,415 - INFO - Downloading: Where Food Comes From, Inc. (WFCF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:27:56,636 - INFO - Downloading: Travere Therapeutics, Inc. (TVTX) Q4 2024 Earnings Call Transcript
+2025-02-25 12:28:04,902 - INFO - Downloading: BJ's Restaurants, Inc. (BJRI) Q4 2024 Earnings Call Transcript
+2025-02-25 12:28:12,470 - INFO - Downloading: AXT, Inc. (AXTI) Q4 2024 Earnings Call Transcript
+2025-02-25 12:28:21,207 - INFO - Downloading: Weave Communications, Inc. (WEAV) Q4 2024 Earnings Call Transcript
+2025-02-25 12:28:29,163 - INFO - Downloading: Glaukos Corporation (GKOS) Q4 2024 Earnings Call Transcript
+2025-02-25 12:28:37,918 - INFO - Downloading: iRhythm Technologies, Inc. (IRTC) Q4 2024 Earnings Call Transcript
+2025-02-25 12:28:47,466 - INFO - Downloading: Spark New Zealand Limited (SPKKY) H1 2025 Earnings Call Transcript
+2025-02-25 12:28:57,068 - INFO - Downloading: Five9, Inc. (FIVN) Q4 2024 Earnings Call Transcript
+2025-02-25 12:29:06,710 - INFO - Downloading: WillScot Holdings Corporation (WSC) Q4 2024 Earnings Call Transcript
+2025-02-25 12:29:16,567 - INFO - Downloading: CoreCard Corporation (CCRD) Q4 2024 Earnings Call Transcript
+2025-02-25 12:29:25,878 - INFO - Downloading: The Shyft Group, Inc. (SHYF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:29:34,094 - INFO - Downloading: Insulet Corporation (PODD) Q4 2024 Earnings Call Transcript
+2025-02-25 12:29:44,127 - INFO - Downloading: Globant S.A. (GLOB) Q4 2024 Earnings Call Transcript
+2025-02-25 12:29:52,723 - INFO - Downloading: NV5 Global, Inc. (NVEE) Q4 2024 Earnings Call Transcript
+2025-02-25 12:30:02,413 - INFO - Downloading: Greystone Housing Impact Investors (GHI) Q4 2024 Earnings Call Transcript
+2025-02-25 12:30:11,710 - INFO - Downloading: CarGurus, Inc. (CARG) Q4 2024 Earnings Call Transcript
+2025-02-25 12:30:20,548 - INFO - Downloading: NN Group N.V. (NNGPF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:30:30,853 - INFO - Downloading: CS DISCO, Inc. (LAW) Q4 2024 Earnings Call Transcript
+2025-02-25 12:30:38,672 - INFO - Downloading: Guardant Health, Inc. (GH) Q4 2024 Earnings Call Transcript
+2025-02-25 12:30:46,785 - INFO - Downloading: Ryan Specialty Holdings, Inc. (RYAN) Q4 2024 Earnings Call Transcript
+2025-02-25 12:30:55,971 - INFO - Downloading: Grid Dynamics Holdings, Inc. (GDYN) Q4 2024 Earnings Call Transcript
+2025-02-25 12:31:05,194 - INFO - Downloading: Vicor Corporation (VICR) Q4 2024 Earnings Call Transcript
+2025-02-25 12:31:13,912 - INFO - Downloading: Anglo American plc (AAUKF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:31:23,197 - INFO - Downloading: Floor & Decor Holdings, Inc. (FND) Q4 2024 Earnings Call Transcript
+2025-02-25 12:31:33,071 - INFO - Downloading: Mercedes-Benz Group AG (MBGAF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:31:41,013 - INFO - Downloading: Akamai Technologies, Inc. (AKAM) Q4 2024 Earnings Call Transcript
+2025-02-25 12:31:50,768 - INFO - Downloading: GRAIL, Inc. (GRAL) Q4 2024 Earnings Call Transcript
+2025-02-25 12:32:00,321 - INFO - Downloading: The RealReal, Inc. (REAL) Q4 2024 Earnings Call Transcript
+2025-02-25 12:32:08,682 - INFO - Downloading: AMN Healthcare Services, Inc. (AMN) Q4 2024 Earnings Call Transcript
+2025-02-25 12:32:16,466 - INFO - Downloading: JAKKS Pacific, Inc. (JAKK) Q4 2024 Earnings Call Transcript
+2025-02-25 12:32:25,129 - INFO - Downloading: Nu Holdings Ltd. (NU) Q4 2024 Earnings Call Transcript
+2025-02-25 12:32:33,675 - INFO - Downloading: Resideo Technologies, Inc. (REZI) Q4 2024 Earnings Call Transcript
+2025-02-25 12:32:43,148 - INFO - Downloading: Globus Medical, Inc. (GMED) Q4 2024 Earnings Call Transcript
+2025-02-25 12:32:50,816 - INFO - Downloading: Cerus Corporation (CERS) Q4 2024 Earnings Call Transcript
+2025-02-25 12:32:58,829 - INFO - Downloading: Savers Value Village, Inc. (SVV) Q4 2024 Earnings Call Transcript
+2025-02-25 12:33:08,223 - INFO - Downloading: Sprouts Farmers Market, Inc. (SFM) Q4 2024 Earnings Call Transcript
+2025-02-25 12:33:17,727 - INFO - Downloading: IDACORP, Inc. (IDA) Q4 2024 Earnings Call Transcript
+2025-02-25 12:33:26,353 - INFO - Progress: 184/2214 articles downloaded
+2025-02-25 12:33:26,377 - INFO - Retrieved 100 unprocessed links
+2025-02-25 12:33:26,377 - INFO - Processing 100 links...
+2025-02-25 12:33:26,378 - INFO - Downloading: Hudson Pacific Properties, Inc. (HPP) Q4 2024 Earnings Call Transcript
+2025-02-25 12:33:36,610 - INFO - Downloading: Telix Pharmaceuticals Limited (TLPPF) FY 2024 Results Earnings Call Transcript
+2025-02-25 12:33:44,698 - INFO - Downloading: TPI Composites, Inc. (TPIC) Q4 2024 Earnings Call Transcript
+2025-02-25 12:33:52,816 - INFO - Downloading: QBE Insurance Group Limited (QBEIF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:34:01,248 - INFO - Downloading: Peakstone Realty Trust (PKST) Q4 2024 Earnings Call Transcript
+2025-02-25 12:34:11,923 - INFO - Downloading: Newmont Corporation (NEM) Q4 2024 Earnings Call Transcript
+2025-02-25 12:34:21,228 - INFO - Downloading: Altus Group Limited (ASGTF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:34:30,347 - INFO - Downloading: Schneider Electric S.E (SBGSF) Q4 2024 Earnings Call Transcript
+2025-02-25 12:34:40,437 - INFO - Downloading: Rivian Automotive, Inc. (RIVN) Q4 2024 Earnings Call Transcript
+2025-02-25 12:34:50,506 - INFO - Downloading: Dropbox, Inc. (DBX) Q4 2024 Earnings Call Transcript
+2025-02-25 12:34:59,146 - INFO - Downloading: World Kinect Corporation (WKC) Q4 2024 Earnings Call Transcript
+2025-02-25 12:35:07,597 - INFO - Downloading: indie Semiconductor, Inc. (INDI) Q4 2024 Earnings Call Transcript
+2025-02-25 12:35:07,986 - INFO - Download interrupted by user.
+2025-02-25 12:35:07,999 - INFO - Progress: 195/2214 articles downloaded
+2025-02-25 16:14:14,460 - INFO - Successfully connected to database
+2025-02-25 16:14:14,461 - INFO - Starting browser...
+2025-02-25 16:14:15,196 - INFO - Browser started
+2025-02-25 16:14:19,049 - INFO - 
+======================================================================
+2025-02-25 16:14:19,049 - INFO - MANUAL LOGIN REQUIRED
+2025-02-25 16:14:19,050 - INFO - Please log in to your Seeking Alpha premium account in the browser window.
+2025-02-25 16:14:19,050 - INFO - Take your time to complete any CAPTCHAs or security checks.
+2025-02-25 16:14:19,050 - INFO - After logging in successfully, return to this console.
+2025-02-25 16:14:19,051 - INFO - ======================================================================
+2025-02-25 16:15:17,832 - INFO - Retrieved 100 unprocessed links
+2025-02-25 16:15:17,833 - INFO - Processing 100 links...
+2025-02-25 16:15:17,834 - INFO - Downloading: indie Semiconductor, Inc. (INDI) Q4 2024 Earnings Call Transcript
+2025-02-25 16:15:27,227 - INFO - Downloading: The Procter & Gamble Company (PG) Consumer Analyst Group of New York Conference (Transcript)
+2025-02-25 16:15:36,154 - INFO - Downloading: Universal Electronics Inc. (UEIC) Q4 2024 Earnings Call Transcript
+2025-02-25 16:15:45,150 - INFO - Downloading: Prothena Corporation plc (PRTA) Q4 2024 Earnings Call Transcript
+2025-02-25 16:15:55,253 - INFO - Downloading: Booking Holdings Inc. (BKNG) Q4 2024 Earnings Call Transcript
+2025-02-25 16:16:03,335 - INFO - Downloading: Alarm.com Holdings, Inc. (ALRM) Q4 2024 Earnings Call Transcript
+2025-02-25 16:16:11,687 - INFO - Downloading: Century Aluminum Company (CENX) Q4 2024 Earnings Call Transcript
+2025-02-25 16:16:20,514 - INFO - Downloading: RingCentral, Inc. (RNG) Q4 2024 Earnings Call Transcript
+2025-02-25 16:16:29,815 - INFO - Downloading: eXp World Holdings, Inc. (EXPI) Q4 2024 Earnings Call Transcript
+2025-02-25 16:16:39,355 - INFO - Downloading: Texas Roadhouse, Inc. (TXRH) Q4 2024 Earnings Call Transcript
+2025-02-25 16:16:49,148 - INFO - Downloading: Innodata Inc. (INOD) Q4 2024 Earnings Conference Call Transcript
+2025-02-25 16:16:59,530 - INFO - Downloading: MP Materials Corp. (MP) Q4 2024 Earnings Call Transcript
+2025-02-25 16:17:09,852 - INFO - Downloading: Copart, Inc. (CPRT) Q2 2025 Earnings Conference Call Transcript
+2025-02-25 16:17:19,618 - INFO - Downloading: Block, Inc. (XYZ) Q4 2024 Earnings Call Transcript
+2025-02-25 16:17:28,964 - INFO - Downloading: Primo Brands Corporation (PRMB) Q4 2024 Earnings Call Transcript
+2025-02-25 16:17:38,218 - INFO - Downloading: Wesfarmers Limited (WFAFF) Q2 2025 Earnings Call Transcript
+2025-02-25 16:17:49,133 - INFO - Downloading: Broadstone Net Lease, Inc. (BNL) Q4 2024 Earnings Call Transcript
+2025-02-25 16:17:57,465 - INFO - Downloading: Rackspace Technology, Inc. (RXT) Q4 2024 Earnings Call Transcript
+2025-02-25 16:18:05,318 - INFO - Downloading: Capstone Copper Corp (CSCCF) Q4 2024 Earnings Call Transcript
+2025-02-25 16:18:15,187 - INFO - Downloading: Sendas Distribuidora S.A. (ASAIY) Q4 2024 Earnings Call Transcript
+2025-02-25 16:18:24,818 - INFO - Downloading: Utz Brands, Inc. (UTZ) Q4 2024 Pre-Recorded Call (Transcript)
+2025-02-25 16:18:34,472 - INFO - Downloading: MercadoLibre, Inc. (MELI) Q4 2024 Earnings Call Transcript
+2025-02-25 16:18:44,133 - INFO - Downloading: The Clorox Company (CLX) Consumer Analyst Group of New York Conference (CAGNY) 2025 (Transcript)
+2025-02-25 16:18:52,590 - INFO - Downloading: Sandfire Resources Limited (SFRRF) Q2 2025 Earnings Call Transcript
+2025-02-25 16:19:03,066 - INFO - Downloading: AEye, Inc. (LIDR) Q4 2024 Earnings Call Transcript
+2025-02-25 16:19:12,690 - INFO - Downloading: Regis Resources Limited (RGRNF) Q2 2025 Earnings Call Transcript
+2025-02-25 16:19:22,691 - INFO - Downloading: Thunderbird Entertainment Group Inc. (THBRF) Q2 2025 Earnings Call Transcript
+2025-02-25 16:19:31,356 - INFO - Downloading: Evolent Health, Inc. (EVH) Q4 2024 Earnings Call Transcript
+2025-02-25 16:19:40,839 - INFO - Downloading: Live Nation Entertainment, Inc. (LYV) Q4 2024 Earnings Call Transcript
+2025-02-25 16:19:48,911 - INFO - Downloading: Universal Display Corporation (OLED) Q4 2024 Earnings Call Transcript
+2025-02-25 16:19:58,272 - INFO - Downloading: Dynavax Technologies Corporation (DVAX) Q4 2024 Earnings Call Transcript
+2025-02-25 16:20:09,020 - INFO - Downloading: Leonardo DRS, Inc. (DRS) Q4 2024 Earnings Call Transcript
+2025-02-25 16:20:14,716 - ERROR - Error downloading article Leonardo DRS, Inc. (DRS) Q4 2024 Earnings Call Transcript: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x006B0B43+25139]
+	(No symbol) [0x006413F4]
+	(No symbol) [0x005204E3]
+	(No symbol) [0x0050FE10]
+	(No symbol) [0x0052D89A]
+	(No symbol) [0x00593DDF]
+	(No symbol) [0x005AE059]
+	(No symbol) [0x0058CDC6]
+	(No symbol) [0x0055BDE9]
+	(No symbol) [0x0055D124]
+	GetHandleVerifier [0x009B4373+3185251]
+	GetHandleVerifier [0x009D291A+3309578]
+	GetHandleVerifier [0x009CCF42+3286578]
+	GetHandleVerifier [0x00747AE0+643536]
+	(No symbol) [0x0064A20D]
+	(No symbol) [0x006470B8]
+	(No symbol) [0x00647257]
+	(No symbol) [0x00639E00]
+	BaseThreadInitThunk [0x76A6FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7768809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7768806E+238]
+
+2025-02-25 16:20:18,944 - INFO - Download interrupted by user.
+2025-02-25 16:20:18,949 - INFO - Progress: 226/2943 articles downloaded
+2025-02-25 16:20:19,327 - INFO - Browser closed
+2025-02-25 16:20:19,329 - INFO - Database connection closed
