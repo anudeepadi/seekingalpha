@@ -1,0 +1,38 @@
+2025-02-26 01:28:12,947 - WARNING - Playsound not installed. Sound alerts will be disabled.
+2025-02-26 01:28:12,950 - WARNING - Playwright not installed. Using fallback browser methods.
+2025-02-26 01:28:13,019 - INFO - Successfully connected to database
+2025-02-26 01:28:13,019 - INFO - Launching browser for manual login to Seeking Alpha...
+2025-02-26 01:28:13,020 - INFO - Launching Chrome with stealth settings to: https://seekingalpha.com/login
+2025-02-26 01:28:18,024 - INFO - Chrome launched successfully
+2025-02-26 01:29:00,027 - INFO - Login successful. Session saved for future use.
+2025-02-26 01:29:01,029 - INFO - Chrome terminated
+2025-02-26 01:29:01,033 - INFO - Database connection closed
+2025-02-26 01:29:06,564 - WARNING - Playsound not installed. Sound alerts will be disabled.
+2025-02-26 01:29:06,565 - WARNING - Playwright not installed. Using fallback browser methods.
+2025-02-26 01:29:06,645 - INFO - Successfully connected to database
+2025-02-26 01:29:06,668 - INFO - Retrieved 5 unprocessed links
+2025-02-26 01:29:06,669 - INFO - Processing batch of 5 links...
+2025-02-26 01:29:06,669 - INFO - Downloading article: Leonardo DRS, Inc. (DRS) Q4 2024 Earnings Call Transcript
+2025-02-26 01:29:06,671 - INFO - File already exists: Leonardo_DRS__Inc___DRS__Q4_2024_Earnings_Call_Tra.html
+2025-02-26 01:29:06,674 - INFO - Downloading article: Carrier Global Corporation (CARR) Presents at Citi's 2025 Global Industrial Tech and Mobility Conference (Transcript)
+2025-02-26 01:29:06,675 - INFO - Launching Chrome with stealth settings to: https://seekingalpha.com/article/4760418-carrier-global-corporation-carr-presents-at-citis-2025-global-industrial-tech-and-mobility#source=author_id%3A44211%7Cauthor_slug%3Asa-transcripts%7Ccontent_type%3Aall%7Cfirst_level_url%3Aauthor%7Csection_asset%3Aprofile_page_author_analysis%7Csection%3Aprofile_page_author
+2025-02-26 01:29:11,690 - INFO - Chrome launched successfully
+2025-02-26 01:29:45,799 - INFO - Chrome terminated
+2025-02-26 01:29:45,800 - INFO - Waiting 81.2 seconds before next download...
+2025-02-26 01:30:31,108 - INFO - Operation interrupted by user.
+2025-02-26 01:30:31,111 - INFO - Database connection closed
+2025-02-26 01:33:37,485 - WARNING - Playsound not installed. Sound alerts will be disabled.
+2025-02-26 01:33:37,487 - WARNING - Playwright not installed. Using fallback browser methods.
+2025-02-26 01:33:37,580 - INFO - Successfully connected to database
+2025-02-26 01:33:37,580 - INFO - Launching browser for manual login to Seeking Alpha...
+2025-02-26 01:33:37,582 - INFO - Launching Chrome with stealth settings to: https://seekingalpha.com/login
+2025-02-26 01:33:42,596 - INFO - Chrome launched successfully
+2025-02-26 01:35:45,076 - INFO - Operation interrupted by user.
+2025-02-26 01:35:45,079 - INFO - Database connection closed
+2025-02-26 01:35:47,308 - WARNING - Playsound not installed. Sound alerts will be disabled.
+2025-02-26 01:35:47,309 - WARNING - Playwright not installed. Using fallback browser methods.
+2025-02-26 01:35:47,359 - INFO - Successfully connected to database
+2025-02-26 01:35:47,359 - INFO - Launching browser for manual login to Seeking Alpha...
+2025-02-26 01:35:47,360 - INFO - Launching Chrome with stealth settings to: https://seekingalpha.com/login
+2025-02-26 01:35:52,367 - INFO - Chrome launched successfully
+2025-02-26 19:26:04,460 - INFO - Operation interrupted by user.

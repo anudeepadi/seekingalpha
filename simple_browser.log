@@ -1,0 +1,25 @@
+2025-02-26 01:30:50,624 - INFO - Successfully connected to database
+2025-02-26 01:30:50,625 - INFO - Starting browser setup process...
+2025-02-26 01:30:50,626 - INFO - Launching Chrome with persistent profile to: https://seekingalpha.com/login
+2025-02-26 01:30:53,637 - INFO - Chrome launched successfully
+2025-02-26 01:31:34,110 - INFO - Chrome terminated
+2025-02-26 01:31:34,111 - INFO - Browser setup completed. Your profile has been saved.
+2025-02-26 01:31:34,112 - INFO - Profile location: chrome_persistent_profile
+2025-02-26 01:31:34,112 - INFO - Browser setup completed successfully.
+2025-02-26 01:31:34,115 - INFO - Database connection closed
+2025-02-26 01:31:58,634 - INFO - Successfully connected to database
+2025-02-26 01:31:58,644 - INFO - Retrieved 5 unprocessed links
+2025-02-26 01:31:58,645 - INFO - Processing batch of 5 links...
+2025-02-26 01:31:58,645 - INFO - Launching Chrome with persistent profile to: https://seekingalpha.com
+2025-02-26 01:32:01,656 - INFO - Chrome launched successfully
+2025-02-26 01:32:07,581 - INFO - Processing article 1/5: Carrier Global Corporation (CARR) Presents at Citi's 2025 Global Industrial Tech and Mobility Conference (Transcript)
+2025-02-26 01:32:08,583 - INFO - Chrome terminated
+2025-02-26 01:32:08,583 - INFO - Launching Chrome with persistent profile to: https://seekingalpha.com/article/4760418-carrier-global-corporation-carr-presents-at-citis-2025-global-industrial-tech-and-mobility#source=author_id%3A44211%7Cauthor_slug%3Asa-transcripts%7Ccontent_type%3Aall%7Cfirst_level_url%3Aauthor%7Csection_asset%3Aprofile_page_author_analysis%7Csection%3Aprofile_page_author
+2025-02-26 01:32:11,594 - INFO - Chrome launched successfully
+2025-02-26 01:32:25,735 - WARNING - File not saved or not found: Carrier_Global_Corporation__CARR__Presents_at_Citi.html
+2025-02-26 01:32:29,503 - INFO - User chose to stop. Exiting.
+2025-02-26 01:32:30,505 - INFO - Chrome terminated
+2025-02-26 01:32:30,510 - INFO - Progress: 227/3782 articles downloaded
+2025-02-26 01:32:30,511 - INFO - Taking a 2.0 minute break before next batch...
+2025-02-26 01:32:38,311 - INFO - Operation interrupted by user.
+2025-02-26 01:32:38,313 - INFO - Database connection closed

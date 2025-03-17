@@ -1,2 +1,7 @@
 sa_content/
 .env
+
+chrome_profile/
+
+
+chrome_persistent_profile/

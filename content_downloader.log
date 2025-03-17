@@ -302,3 +302,14 @@ Stacktrace:
 2025-02-25 16:20:18,949 - INFO - Progress: 226/2943 articles downloaded
 2025-02-25 16:20:19,327 - INFO - Browser closed
 2025-02-25 16:20:19,329 - INFO - Database connection closed
+2025-02-26 01:14:33,043 - INFO - Successfully connected to database
+2025-02-26 01:14:33,044 - INFO - Starting browser with enhanced stealth...
+2025-02-26 01:14:33,045 - WARNING - No proxies configured. Using direct connection.
+2025-02-26 01:14:34,603 - INFO - patching driver executable C:\Users\vuc229\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-26 01:14:35,524 - INFO - Browser started with enhanced stealth features
+2025-02-26 01:14:35,525 - INFO - No cookie file found
+2025-02-26 01:14:39,930 - INFO - CAPTCHA detected! Waiting for manual intervention...
+2025-02-26 01:14:40,153 - INFO - Screenshot saved as captcha_20250226_011439.png
+2025-02-26 01:16:47,827 - INFO - Script interrupted by user.
+2025-02-26 01:16:47,923 - INFO - Browser closed
+2025-02-26 01:16:47,925 - INFO - Database connection closed

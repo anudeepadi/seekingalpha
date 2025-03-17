@@ -1,0 +1,258 @@
+2025-03-03 15:47:48,127 - INFO - Created new CSV file: links.csv
+2025-03-03 15:47:48,129 - INFO - Starting stealth browser...
+2025-03-03 15:47:49,753 - INFO - patching driver executable C:\Users\vuc229\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-03 15:47:50,686 - INFO - Browser started with stealth configuration
+2025-03-03 15:47:55,009 - INFO - 
+======================================================================
+2025-03-03 15:47:55,010 - INFO - MANUAL LOGIN REQUIRED
+2025-03-03 15:47:55,011 - INFO - Please log in to your Seeking Alpha premium account in the browser window.
+2025-03-03 15:47:55,013 - INFO - Take your time to complete any CAPTCHAs or security checks.
+2025-03-03 15:47:55,013 - INFO - After logging in successfully, return to this console.
+2025-03-03 15:47:55,014 - INFO - ======================================================================
+2025-03-03 15:54:10,434 - ERROR - An error occurred: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.142)
+Stacktrace:
+	GetHandleVerifier [0x00520B43+25139]
+	(No symbol) [0x004B13F4]
+	(No symbol) [0x003904E3]
+	(No symbol) [0x0037FE10]
+	(No symbol) [0x0039D89A]
+	(No symbol) [0x00403DDF]
+	(No symbol) [0x0041E059]
+	(No symbol) [0x003FCDC6]
+	(No symbol) [0x003CBDE9]
+	(No symbol) [0x003CD124]
+	GetHandleVerifier [0x00824373+3185251]
+	GetHandleVerifier [0x0084291A+3309578]
+	GetHandleVerifier [0x0083CF42+3286578]
+	GetHandleVerifier [0x005B7AE0+643536]
+	(No symbol) [0x004BA20D]
+	(No symbol) [0x004B70B8]
+	(No symbol) [0x004B7257]
+	(No symbol) [0x004A9E00]
+	BaseThreadInitThunk [0x76A6FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7768809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7768806E+238]
+
+2025-03-03 15:54:10,456 - ERROR - Traceback (most recent call last):
+  File "C:\Users\vuc229\Projects\alpha\csv_link_collector.py", line 295, in main
+    if not collector.manual_login():
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vuc229\Projects\alpha\csv_link_collector.py", line 97, in manual_login
+    self.driver.get("https://seekingalpha.com")
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\undetected_chromedriver\__init__.py", line 665, in get
+    return super().get(url)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.142)
+Stacktrace:
+	GetHandleVerifier [0x00520B43+25139]
+	(No symbol) [0x004B13F4]
+	(No symbol) [0x003904E3]
+	(No symbol) [0x0037FE10]
+	(No symbol) [0x0039D89A]
+	(No symbol) [0x00403DDF]
+	(No symbol) [0x0041E059]
+	(No symbol) [0x003FCDC6]
+	(No symbol) [0x003CBDE9]
+	(No symbol) [0x003CD124]
+	GetHandleVerifier [0x00824373+3185251]
+	GetHandleVerifier [0x0084291A+3309578]
+	GetHandleVerifier [0x0083CF42+3286578]
+	GetHandleVerifier [0x005B7AE0+643536]
+	(No symbol) [0x004BA20D]
+	(No symbol) [0x004B70B8]
+	(No symbol) [0x004B7257]
+	(No symbol) [0x004A9E00]
+	BaseThreadInitThunk [0x76A6FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7768809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7768806E+238]
+
+
+2025-03-03 15:54:10,603 - INFO - Browser closed
+2025-03-03 15:54:13,819 - INFO - CSV file already exists: links.csv
+2025-03-03 15:54:13,820 - INFO - Starting stealth browser...
+2025-03-03 15:54:14,962 - INFO - patching driver executable C:\Users\vuc229\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-03 15:54:15,861 - INFO - Browser started with stealth configuration
+2025-03-03 15:54:20,491 - INFO - 
+======================================================================
+2025-03-03 15:54:20,493 - INFO - MANUAL LOGIN REQUIRED
+2025-03-03 15:54:20,494 - INFO - Please log in to your Seeking Alpha premium account in the browser window.
+2025-03-03 15:54:20,495 - INFO - Take your time to complete any CAPTCHAs or security checks.
+2025-03-03 15:54:20,496 - INFO - After logging in successfully, return to this console.
+2025-03-03 15:54:20,497 - INFO - ======================================================================
+2025-03-03 15:57:06,689 - INFO - Browser closed
+2025-03-03 15:59:27,001 - INFO - CSV file already exists: links.csv
+2025-03-03 15:59:27,002 - INFO - Starting stealth browser...
+2025-03-03 15:59:28,179 - INFO - patching driver executable C:\Users\vuc229\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-03 15:59:29,155 - ERROR - An error occurred: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+	GetHandleVerifier [0x00450B43+25139]
+	(No symbol) [0x003E13F4]
+	(No symbol) [0x002C04E3]
+	(No symbol) [0x002E709E]
+	(No symbol) [0x002E89C0]
+	(No symbol) [0x002E3A6B]
+	(No symbol) [0x003377F2]
+	(No symbol) [0x003371FE]
+	(No symbol) [0x003389D6]
+	(No symbol) [0x003387DA]
+	(No symbol) [0x0032CDC6]
+	(No symbol) [0x002FBDE9]
+	(No symbol) [0x002FD124]
+	GetHandleVerifier [0x00754373+3185251]
+	GetHandleVerifier [0x0077291A+3309578]
+	GetHandleVerifier [0x0076CF42+3286578]
+	GetHandleVerifier [0x004E7AE0+643536]
+	(No symbol) [0x003EA20D]
+	(No symbol) [0x003E70B8]
+	(No symbol) [0x003E7257]
+	(No symbol) [0x003D9E00]
+	BaseThreadInitThunk [0x76A6FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7768809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7768806E+238]
+
+2025-03-03 15:59:29,162 - ERROR - Traceback (most recent call last):
+  File "C:\Users\vuc229\Projects\alpha\csv_link_collector.py", line 517, in main
+    collector.init_browser()
+  File "C:\Users\vuc229\Projects\alpha\csv_link_collector.py", line 89, in init_browser
+    self.driver = uc.Chrome(options=options)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\undetected_chromedriver\__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 250, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\undetected_chromedriver\__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 342, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+	GetHandleVerifier [0x00450B43+25139]
+	(No symbol) [0x003E13F4]
+	(No symbol) [0x002C04E3]
+	(No symbol) [0x002E709E]
+	(No symbol) [0x002E89C0]
+	(No symbol) [0x002E3A6B]
+	(No symbol) [0x003377F2]
+	(No symbol) [0x003371FE]
+	(No symbol) [0x003389D6]
+	(No symbol) [0x003387DA]
+	(No symbol) [0x0032CDC6]
+	(No symbol) [0x002FBDE9]
+	(No symbol) [0x002FD124]
+	GetHandleVerifier [0x00754373+3185251]
+	GetHandleVerifier [0x0077291A+3309578]
+	GetHandleVerifier [0x0076CF42+3286578]
+	GetHandleVerifier [0x004E7AE0+643536]
+	(No symbol) [0x003EA20D]
+	(No symbol) [0x003E70B8]
+	(No symbol) [0x003E7257]
+	(No symbol) [0x003D9E00]
+	BaseThreadInitThunk [0x76A6FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7768809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7768806E+238]
+
+
+2025-03-03 15:59:47,711 - INFO - CSV file already exists: links.csv
+2025-03-03 15:59:47,712 - INFO - Starting stealth browser...
+2025-03-03 15:59:48,860 - INFO - patching driver executable C:\Users\vuc229\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-03 15:59:49,809 - ERROR - An error occurred: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+	GetHandleVerifier [0x00900B43+25139]
+	(No symbol) [0x008913F4]
+	(No symbol) [0x007704E3]
+	(No symbol) [0x0079709E]
+	(No symbol) [0x007989C0]
+	(No symbol) [0x00793A6B]
+	(No symbol) [0x007E77F2]
+	(No symbol) [0x007E71FE]
+	(No symbol) [0x007E89D6]
+	(No symbol) [0x007E87DA]
+	(No symbol) [0x007DCDC6]
+	(No symbol) [0x007ABDE9]
+	(No symbol) [0x007AD124]
+	GetHandleVerifier [0x00C04373+3185251]
+	GetHandleVerifier [0x00C2291A+3309578]
+	GetHandleVerifier [0x00C1CF42+3286578]
+	GetHandleVerifier [0x00997AE0+643536]
+	(No symbol) [0x0089A20D]
+	(No symbol) [0x008970B8]
+	(No symbol) [0x00897257]
+	(No symbol) [0x00889E00]
+	BaseThreadInitThunk [0x76A6FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7768809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7768806E+238]
+
+2025-03-03 15:59:49,817 - ERROR - Traceback (most recent call last):
+  File "C:\Users\vuc229\Projects\alpha\csv_link_collector.py", line 517, in main
+    collector.init_browser()
+  File "C:\Users\vuc229\Projects\alpha\csv_link_collector.py", line 89, in init_browser
+    self.driver = uc.Chrome(options=options)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\undetected_chromedriver\__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 250, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\undetected_chromedriver\__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 342, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\vuc229\AppData\Local\anaconda3\envs\deepl\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+	GetHandleVerifier [0x00900B43+25139]
+	(No symbol) [0x008913F4]
+	(No symbol) [0x007704E3]
+	(No symbol) [0x0079709E]
+	(No symbol) [0x007989C0]
+	(No symbol) [0x00793A6B]
+	(No symbol) [0x007E77F2]
+	(No symbol) [0x007E71FE]
+	(No symbol) [0x007E89D6]
+	(No symbol) [0x007E87DA]
+	(No symbol) [0x007DCDC6]
+	(No symbol) [0x007ABDE9]
+	(No symbol) [0x007AD124]
+	GetHandleVerifier [0x00C04373+3185251]
+	GetHandleVerifier [0x00C2291A+3309578]
+	GetHandleVerifier [0x00C1CF42+3286578]
+	GetHandleVerifier [0x00997AE0+643536]
+	(No symbol) [0x0089A20D]
+	(No symbol) [0x008970B8]
+	(No symbol) [0x00897257]
+	(No symbol) [0x00889E00]
+	BaseThreadInitThunk [0x76A6FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7768809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7768806E+238]
+
+

@@ -1,0 +1,33 @@
+2025-03-03 16:03:31,560 - INFO - Starting stealth browser...
+2025-03-03 16:03:32,703 - INFO - patching driver executable C:\Users\vuc229\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-03 16:03:33,578 - INFO - Browser started with stealth configuration
+2025-03-03 16:03:33,578 - INFO - No cookies file found at sa_cookies.pkl
+2025-03-03 16:03:33,590 - INFO - Found 0 existing links in CSV file
+2025-03-03 16:03:37,551 - INFO - Processing page 1: https://seekingalpha.com/author/sa-transcripts/analysis?page=1
+2025-03-03 16:03:43,237 - WARNING - Captcha detected! Please solve it manually.
+2025-03-03 16:03:50,722 - INFO - Captcha handled, continuing...
+2025-03-03 16:03:56,047 - INFO - Found 18 articles using JavaScript
+2025-03-03 16:03:56,057 - INFO - Stored 18 new links from page 1
+2025-03-03 16:04:00,511 - INFO - Processing page 2: https://seekingalpha.com/author/sa-transcripts/analysis?page=2
+2025-03-03 16:04:06,582 - WARNING - Captcha detected! Please solve it manually.
+2025-03-03 16:05:03,918 - INFO - Captcha handled, continuing...
+2025-03-03 16:05:04,614 - INFO - Collection interrupted by user.
+2025-03-03 16:05:04,618 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/5f76647378340fb8cfff88e3c88be7d7/cookie
+2025-03-03 16:05:06,650 - INFO - Script interrupted by user.
+2025-03-03 16:05:20,274 - INFO - Starting stealth browser...
+2025-03-03 16:05:21,336 - INFO - patching driver executable C:\Users\vuc229\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-03 16:05:22,211 - INFO - Browser started with stealth configuration
+2025-03-03 16:05:22,211 - INFO - No cookies file found at sa_cookies.pkl
+2025-03-03 16:05:22,225 - INFO - Read 18 links from CSV file
+2025-03-03 16:05:25,998 - INFO - Starting download for 18 articles...
+2025-03-03 16:05:25,999 - INFO - Processing link 1/18: Editas Medicine, Inc. (EDIT) TD Cowen 45th Annual Health Care Conference Transcript
+2025-03-03 16:05:26,000 - INFO - Downloading: Editas Medicine, Inc. (EDIT) TD Cowen 45th Annual Health Care Conference Transcript
+2025-03-03 16:05:33,447 - WARNING - Captcha detected! Please solve it manually.
+2025-03-03 16:06:40,655 - INFO - Download interrupted by user.
+2025-03-03 16:06:40,661 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/34f405bc8319bff5e65992961be2ed77/cookie
+2025-03-03 16:06:42,687 - INFO - Script interrupted by user.
+2025-03-03 16:06:46,760 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015B2C967B90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/34f405bc8319bff5e65992961be2ed77/cookie
+2025-03-03 16:06:50,837 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015B2C967050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/34f405bc8319bff5e65992961be2ed77/cookie
+2025-03-03 16:06:54,939 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015B2C938C50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/34f405bc8319bff5e65992961be2ed77/cookie
+2025-03-03 16:06:59,018 - ERROR - Error saving cookies: HTTPConnectionPool(host='localhost', port=58631): Max retries exceeded with url: /session/34f405bc8319bff5e65992961be2ed77/cookie (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015B2C938DD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-03 16:06:59,281 - INFO - Browser closed
